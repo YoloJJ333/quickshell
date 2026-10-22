@@ -1,0 +1,15 @@
+module qs.Services
+
+singleton SessionService 1.0 SessionService.qml
+singleton KeepAwake 1.0 KeepAwake.qml
+singleton FocusMode 1.0 FocusMode.qml
+singleton PopupService 1.0 PopupService.qml
+singleton BatteryService 1.0 BatteryService.qml
+singleton AudioService 1.0 AudioService.qml
+singleton BrightnessService 1.0 BrightnessService.qml
+singleton KeyboardService 1.0 KeyboardService.qml
+singleton WorkspaceService 1.0 WorkspaceService.qml
+singleton WifiService 1.0 WifiService.qml
+singleton BluetoothService 1.0 BluetoothService.qml
+singleton TrayService 1.0 TrayService.qml
+singleton SystemMonitorService 1.0 SystemMonitorService.qml

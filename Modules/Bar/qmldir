@@ -1,0 +1,14 @@
+module qs.Modules.Bar
+
+Bar 1.0 Bar.qml
+Clock 1.0 Clock.qml
+BarButton 1.0 BarButton.qml
+StatusArea 1.0 StatusArea.qml
+BatteryIndicator 1.0 BatteryIndicator.qml
+TrayArea 1.0 TrayArea.qml
+TrayIcon 1.0 TrayIcon.qml
+Workspaces 1.0 Workspaces.qml
+WorkspaceButton 1.0 WorkspaceButton.qml
+SystemMonitor 1.0 SystemMonitor.qml
+MonitorReadout 1.0 MonitorReadout.qml
+WindowTitle 1.0 WindowTitle.qml

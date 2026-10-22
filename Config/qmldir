@@ -1,0 +1,5 @@
+module qs.Config
+
+singleton Colors 1.0 Colors.qml
+singleton Theme 1.0 Theme.qml
+singleton Flavor 1.0 Flavor.qml

@@ -1,0 +1,17 @@
+module qs.Modules.Popups
+
+PopupLayer 1.0 PopupLayer.qml
+PopupCard 1.0 PopupCard.qml
+PopupHeader 1.0 PopupHeader.qml
+PopupList 1.0 PopupList.qml
+PopupRow 1.0 PopupRow.qml
+PopupSection 1.0 PopupSection.qml
+ChipButton 1.0 ChipButton.qml
+ToggleSwitch 1.0 ToggleSwitch.qml
+SliderRow 1.0 SliderRow.qml
+WifiPanel 1.0 WifiPanel.qml
+BluetoothPanel 1.0 BluetoothPanel.qml
+AudioPanel 1.0 AudioPanel.qml
+ControlCenter 1.0 ControlCenter.qml
+TrayPanel 1.0 TrayPanel.qml
+ChipInput 1.0 ChipInput.qml

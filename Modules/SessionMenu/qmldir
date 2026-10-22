@@ -1,0 +1,4 @@
+module qs.Modules.SessionMenu
+
+SessionMenu 1.0 SessionMenu.qml
+SessionTile 1.0 SessionTile.qml

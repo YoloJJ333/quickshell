@@ -1,0 +1,3 @@
+module qs.Modules.Desktop
+
+FocusBackdrop 1.0 FocusBackdrop.qml
